@@ -25,4 +25,5 @@
   <a href="https://www.linkedin.com/in/yago-barbosa-35762b219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   </div>
-(https://github.com/yagob16/yagob16/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/yagob16/yagob16/blob/output/github-contribution-grid-snake.svg)
