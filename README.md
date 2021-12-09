@@ -2,7 +2,7 @@
 
 - 🍃 Estudando HTML5 e CSS3.
 - 💻 Atualmente desenvolvendo a parte visual do meu site para Portfólio!!
-- 📘 Estudante de Ciência da Programação.
+- 📘 Estudante de Ciência da Computação.
 
 <div align="center">
   <a href="https://github.com/YagoB16">
