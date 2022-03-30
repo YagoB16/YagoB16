@@ -1,7 +1,7 @@
 <h3>Olá!! eu sou o <strong>Yago Barbosa</strong></h3>
 
-- 🍃 Estudando HTML5 e CSS3.
-- 💻 Atualmente desenvolvendo a parte visual do meu site para Portfólio!!
+- 🍃 Estudando Python.
+- 💻 Atualmente estágiando como desenvolvedor!!
 - 📘 Estudante de Ciência da Computação.
 
 <div align="center">
