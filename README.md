@@ -1,7 +1,7 @@
 <h3>Olá!! eu sou o <strong>Yago Barbosa</strong></h3>
 
 - 🍃 Estudando PHP.
-- 💻 Atualmente estágiando como desenvolvedor!!
+- 💻 Atualmente estágiando com desenvolvimento!!
 - 📘 Estudante de Ciência da Computação.
 
 <div align="center">
