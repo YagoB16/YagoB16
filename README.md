@@ -1,8 +1,11 @@
-<h3>Olá!! eu sou o <strong>Yago Barbosa</strong></h3>
+<h3>Hello!!</h3>
+<p>I'm Yago, a Backend PHP developer with about 1 year of experience!<br>
+I'm interested in Frontend, where I want to specialize, but not forgetting to study PHP for backend.<br>
+I like Frontend for the creativity in creating web pages and the ability to provide a good user experience.<p>
 
-- 🍃 Estudando PHP.
-- 💻 Atualmente estágiando com desenvolvimento!!
-- 📘 Estudante de Ciência da Computação.
+
+- 📚 At the moment out the work, my main focus is learning PHP for the web and some Framework like Bootstrap for Front End!!
+- 📘 Computer Science.
 
 <div align="center">
   <a href="https://github.com/YagoB16">
