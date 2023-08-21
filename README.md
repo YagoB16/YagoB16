@@ -30,4 +30,4 @@ I like Frontend for the creativity in creating web pages and the ability to prov
  
   </div>
 
-  ![Snake animation](https://github.com/yagob16/yagob16/blob/output/github-contribution-grid-snake.svg)
+  
