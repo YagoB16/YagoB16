@@ -1,11 +1,11 @@
 <h3>Hello!!</h3>
-<p>I'm Yago, a Backend PHP developer with about 1 year of experience!<br>
-I'm interested in Frontend, where I want to specialize, but not forgetting to study PHP for backend.<br>
-I like Frontend for the creativity in creating web pages and the ability to provide a good user experience.<p>
+<p>Estudante de Ciências da Computação!<br>
+Atualmente trabalho com PHP e estudo REACT paralelamente<br>
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.<p>
 
 
-- 📚 At the moment out the work, my main focus is learning PHP for the web and some Framework like Bootstrap for Front End!!
-- 📘 Computer Science.
+- 📚 Atualmente, fora do trabalho, meu foco principal é aprimorar meus conhecimentos em React para o Frontend e continuar aprendendo PHP para o desenvolvimento web, além de explorar frameworks como o Tailwind CSS.
+
 
 <div align="center">
   <a href="https://github.com/YagoB16">
@@ -14,9 +14,12 @@ I like Frontend for the creativity in creating web pages and the ability to prov
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Logo-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Logo-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Logo-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="Logo-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="Logo-MYSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Logo-Py" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
  </div>
   
