@@ -8,8 +8,8 @@
     <img align="center" height='100' alt="Monkey Coding" src="./src/monkey-coding.gif">
     <p align="center">
         Estudante de Ciências da Computação!<br>
-        Atualmente trabalho com **PHP** 🐘 e estou sempre em busca de novos desafios na área de tecnologia. Estou constantemente atualizando meus conhecimentos e aprendendo novas ferramentas.<br>
-        Fora do trabalho, meu foco principal é aprimorar meus conhecimentos em **React** para o Frontend e continuar explorando **PHP** para o desenvolvimento web, além de estudar frameworks como o **Tailwind CSS**.
+        Atualmente trabalho com <b>PHP</b> 🐘 e estou sempre em busca de novos desafios na área de tecnologia. Estou constantemente atualizando meus conhecimentos e aprendendo novas ferramentas.<br>
+        Fora do trabalho, meu foco principal é aprimorar meus conhecimentos em <b>React</b> para o Frontend e continuar explorando <b>PHP</b> para o desenvolvimento web, além de estudar frameworks como o <b>Tailwind CSS</b>.
     </p>
 </div>
 
