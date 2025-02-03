@@ -1,10 +1,21 @@
-<h3>Hello!!</h3>
-<p>Estudante de Ciências da Computação!<br>
-Atualmente trabalho com PHP e estudo REACT paralelamente<br>
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.<p>
+<h3>
+  <div align="center">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4028D4&background=FFFFFF00&width=435&lines=Welcome+to+my+codeverso+%E0%B2%A5_%E0%B2%A5" alt="Typing SVG">
+      </a>
+  </div>
+</h3>
 
 
-- 📚 Atualmente, fora do trabalho, meu foco principal é aprimorar meus conhecimentos em React para o Frontend e continuar aprendendo PHP para o desenvolvimento web, além de explorar frameworks como o Tailwind CSS.
+
+<p>
+ Estudante de Ciências da Computação!
+ Atualmente trabalho com PHP 🐘 e estou sempre em busca de novos desafios na área de tecnologia. Estou constantemente atualizando meus conhecimentos e aprendendo novas ferramentas.
+ Fora do trabalho, meu foco principal é aprimorar meus conhecimentos em React  para o Frontend e continuar explorando PHP para o desenvolvimento web, além de estudar frameworks como o Tailwind CSS.
+<p>
+
+
+
 
 
 <div align="center">
