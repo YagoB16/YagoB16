@@ -7,9 +7,11 @@
 <div align="center">
     <img align="center" height='100' alt="Monkey Coding" src="./src/monkey-coding.gif">
     <p align="center">
-        Estudante de Ciências da Computação!<br>
-        Atualmente trabalho com <b>PHP</b> 🐘 e estou sempre em busca de novos desafios na área de tecnologia. Estou constantemente atualizando meus conhecimentos e aprendendo novas ferramentas.<br>
-        Fora do trabalho, meu foco principal é aprimorar meus conhecimentos em <b>React</b> para o Frontend e continuar explorando <b>PHP</b> para o desenvolvimento web, além de estudar frameworks como o <b>Tailwind CSS</b>.
+    Graduado em Ciência da Computação! 🚀
+
+Atualmente com foco em desenvolvimento web moderno, construindo backends robustos com Java & Spring Boot ☕ e desenvolvendo interfaces dinâmicas com Next.js & React ⚛️.
+
+Também possuo experiência com PHP 🐘 e estilização ágil utilizando Tailwind CSS. Sempre em busca de novos desafios, explorando boas práticas de arquitetura, segurança e microsserviços..
     </p>
 </div>
 
